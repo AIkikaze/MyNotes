@@ -1,0 +1,12 @@
+# system ignore
+.DS_Store
+
+# config for vscode
+.vscode/
+
+# config for obsidian
+.obsidian/
+
+*.pdf
+
+*.zip
